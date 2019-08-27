@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "909456942487",
+    "firebase_url": "https://hello-talk-55bc8.firebaseio.com",
+    "project_id": "hello-talk-55bc8",
+    "storage_bucket": "hello-talk-55bc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909456942487:android:6c9acd6b0051810a",
+        "android_client_info": {
+          "package_name": "com.hello.talk.me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909456942487-bbe96m2i07l5u75cusjakcvk3f28tae9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDLPKr4qViuB15kWv81MJif6nic9q1UDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909456942487-bbe96m2i07l5u75cusjakcvk3f28tae9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

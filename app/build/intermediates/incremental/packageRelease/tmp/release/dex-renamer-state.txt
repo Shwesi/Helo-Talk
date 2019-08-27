@@ -1,0 +1,7 @@
+#Mon Aug 19 14:20:02 MMT 2019
+base.0=D\:\\Android Studio Project\\hello talk\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\Android Studio Project\\hello talk\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0

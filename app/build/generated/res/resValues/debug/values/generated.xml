@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="admob_app_id" translatable="false">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="app_folder_name" translatable="false">Hello Talk</string>
+    <string name="app_name" translatable="false">Hello Talk</string>
+
+    <bool name="are_ads_enabled">false</bool>
+
+    <string name="banner_unit_id_main" translatable="false"></string>
+    <string name="banner_unit_id_new_chat" translatable="false"></string>
+    <string name="email" translatable="false">salingyimyo@devlomi.com</string>
+    <string name="foursquare_client_id" translatable="false">35DDJWIDUC0PMBW3TFTXM2J3ODD3311XZNWPTU4IC3IW0QOE</string>
+    <string name="foursquare_client_secret" translatable="false">K44TE2QYQJM2W4XSYBDFJDYZF3PC5WHQQ5PGH2Y5DN0VM4HV</string>
+    <string name="group_invite_host" translatable="false">hello-talk-55bc8.firebaseio.com</string>
+    <string name="interstitial_ad_id" translatable="false"></string>
+
+    <bool name="is_calls_ad_enabled">false</bool>
+    <bool name="is_interstitial_ad_enabled">false</bool>
+    <bool name="is_new_chat_ad_enabled">false</bool>
+    <bool name="is_status_ad_enabled">false</bool>
+
+    <string name="maps_api_key" translatable="false">AIzaSyCfG6GWwcJ6Oa0Xn23jCmqgIvFNUcCe_vw</string>
+    <string name="sinch_app_id" translatable="false">abe7d88a-03a3-4903-a6be-03c0d0ea9daa</string>
+    <string name="sinch_app_secret" translatable="false">rIyWqA7F1ECQotqTx984GA==</string>
+    <string name="twitter_account" translatable="false">https://twitter.com/Salingyitar</string>
+    <string name="website" translatable="false">https://www.facebook.com/myominaung.shwesi/</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">909456942487-bbe96m2i07l5u75cusjakcvk3f28tae9.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://hello-talk-55bc8.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">909456942487</string>
+    <string name="google_api_key" translatable="false">AIzaSyCDLPKr4qViuB15kWv81MJif6nic9q1UDM</string>
+    <string name="google_app_id" translatable="false">1:909456942487:android:6c9acd6b0051810a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCDLPKr4qViuB15kWv81MJif6nic9q1UDM</string>
+    <string name="google_storage_bucket" translatable="false">hello-talk-55bc8.appspot.com</string>
+    <string name="project_id" translatable="false">hello-talk-55bc8</string>
+</resources>
